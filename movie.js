@@ -5,11 +5,11 @@ class Movie{
         this.title=title;
         this.studio=studio;
         this.rating=rating;
-         getPg(){
-           return( this.title=title,
-            this.studio=studio,
-            this.rating=rating,)
-         };
+        //  getPg(){
+        //    return( this.title=title,
+        //     this.studio=studio,
+        //     this.rating=rating,)
+        //  };
     }
 }
 
