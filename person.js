@@ -19,4 +19,3 @@ let fst=new Person('Raj','Kumar',1995,28,'male','Cuddlaore','Tamil Nadu');
 
 
 
-console.log(fst);
