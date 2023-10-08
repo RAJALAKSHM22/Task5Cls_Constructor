@@ -11,7 +11,7 @@ class Uber{
         let price=(this.place*this.cost)+(6*this.hours);
 return(`Distance of your "ride" :"${this.place}".
 Charges add for "waiting period" :"${this.hours} minutes"
-The amount Charges for your ride :${this.price}.   `)
+The amount Charges for your ride :${price}.`)
     }
     setTrip(changeDistance){
         this.place=changeDistance
